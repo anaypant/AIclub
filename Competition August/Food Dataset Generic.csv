@@ -1,0 +1,1442 @@
+Food and Serving,Calories,Food Type,TOD,Feeling
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Asparagus,20,Veg,Generic,Generic
+Bell Pepper,25,Veg,Generic,Generic
+Broccoli,45,Veg,Generic,Generic
+Carrot,30,Veg,Generic,Generic
+Cauliflower,25,Veg,Generic,Generic
+Celery,15,Veg,Generic,Generic
+Cucumber,10,Veg,Generic,Generic
+Green Bean,20,Veg,Generic,Generic
+Green Cabbage,25,Veg,Generic,Generic
+Green Onion,10,Veg,Generic,Generic
+Iceberg Lettuce,10,Veg,Generic,Generic
+Leaf Lettuce,15,Veg,Generic,Generic
+Mushroom,20,Veg,Generic,Generic
+Onion,45,Veg,Generic,Generic
+Potato,110,Veg,Generic,Generic
+Radished,10,Veg,Generic,Generic
+Summer Squash,20,Veg,Generic,Generic
+Sweet Corn,90,Veg,Generic,Generic
+Sweet Potato,100,Veg,Generic,Generic
+Tomato,25,Fruit,Generic,Generic
+Apple,130,Fruit,Generic,Generic
+Avocado,50,Fruit,Generic,Generic
+Banana,110,Fruit,Generic,Generic
+Cantaloupe,50,Fruit,Generic,Generic
+Grapefruit,60,Fruit,Generic,Generic
+Grapes,90,Fruit,Generic,Generic
+Honeydew Melon,50,Fruit,Generic,Generic
+Kiwi,90,Fruit,Generic,Generic
+Lemon,15,Fruit,Generic,Generic
+Lime,20,Fruit,Generic,Generic
+Nectarine,60,Fruit,Generic,Generic
+Orange,80,Fruit,Generic,Generic
+Peach,60,Fruit,Generic,Generic
+Pear,100,Fruit,Generic,Generic
+Pineapple,50,Fruit,Generic,Generic
+Plums,70,Fruit,Generic,Generic
+Strawberry,50,Fruit,Generic,Generic
+Sweet Cherries,100,Fruit,Generic,Generic
+Tangerine,50,Fruit,Generic,Generic
+Watermelon,80,Fruit,Generic,Generic
+Blue Crab,100,Seafood,Generic,Generic
+Catfish,130,Seafood,Generic,Generic
+Clams,110,Seafood,Generic,Generic
+Cod,90,Seafood,Generic,Generic
+Flounder,100,Seafood,Generic,Generic
+Haddock,100,Seafood,Generic,Generic
+Halibut,120,Seafood,Generic,Generic
+Lobster,80,Seafood,Generic,Generic
+Ocean Perch,110,Seafood,Generic,Generic
+Orange Roughy,80,Seafood,Generic,Generic
+Oysters,100,Seafood,Generic,Generic
+Pollock,90,Seafood,Generic,Generic
+Rainbow Trout,140,Seafood,Generic,Generic
+Rockfish,110,Seafood,Generic,Generic
+Salmon,200,Seafood,Generic,Generic
+Atlantic Salmon,130,Seafood,Generic,Generic
+Scallops,140,Seafood,Generic,Generic
+Shrimp,100,Seafood,Generic,Generic
+Swordfish,120,Seafood,Generic,Generic
+Tilapia,110,Seafood,Generic,Generic
+Tuna,130,Seafood,Generic,Generic
+Cake,129,Dessert,Generic,Generic
+Pizza,250,Italian,Generic,Generic
+Alfredo Pasta,1200,Italian,Generic,Generic
+Tomato Basil Pasta,265.3,Italian,Generic,Generic
+Coffee,100,Drink,12,Hungry
+Panda Express,500,Chinese,13,Hungry
+coffee,100,Drink,15,Thirsty
+coffee,100.0,Drink,17,Thirsty
+Pizza,250.0,Italian,15,Bored
+Dumplings,300,Chinese,19,Hungry
+salmon,100,Seafood,4,Hungry
+Apple,130.0,Fruit,12,Hungry
+Apple,130.0,Fruit,14,Hungry
+salmon,100.0,seafood,14,Hungry
+salmon,100.0,seafood,13,hungry
+apple,100,fruit,13,gungry
