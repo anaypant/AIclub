@@ -3,7 +3,7 @@ Hello World!
 
 This is my AI Competition Class for AIClub!
 
-In this folder, you will find 3 files: main.py, plot.py, and Food Nutrition Dataset Generic.csv.
+In this folder, you will find 3 files: main.py, plot.py, and Food Dataset Generic.csv.
 
 If you want to use this app, please note that you will have to have all three files in the SAME folder (no subfolders.)
 
