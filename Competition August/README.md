@@ -31,3 +31,7 @@ FOOD DATASET.CSV:
 This is the csv that is used for you!
 This dataset is also changed live, so it will add whatever your new input is.
 You can also manually add inputs in the csv (just be careful!)
+
+
+
+*** For more info, you can visit https://medium.com/@anaypant212/an-app-to-give-food-recommendations-using-an-ai-with-python-dcd30dc37048
